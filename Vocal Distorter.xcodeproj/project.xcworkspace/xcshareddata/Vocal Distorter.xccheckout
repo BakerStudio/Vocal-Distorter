@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>22ED6F2A-DF20-47AD-A3CB-34AACA40E27B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Vocal Distorter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E9D0D269CE91B42B16E714B6030F3E5CA9C78CE</key>
+		<string>https://github.com/BakerStudio/Vocal-Distorter.git</string>
+		<key>B238B63B4BBE972BA887B71EA30F814602006C18</key>
+		<string>https://github.com/BakerStudio/Vocal-Distorter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Vocal Distorter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E9D0D269CE91B42B16E714B6030F3E5CA9C78CE</key>
+		<string>../..</string>
+		<key>B238B63B4BBE972BA887B71EA30F814602006C18</key>
+		<string>../..Vocal%20Distorter/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/BakerStudio/Vocal-Distorter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3E9D0D269CE91B42B16E714B6030F3E5CA9C78CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E9D0D269CE91B42B16E714B6030F3E5CA9C78CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Vocal%20Distorter</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B238B63B4BBE972BA887B71EA30F814602006C18</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Vocal%20Distorter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
